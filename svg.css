@@ -1,0 +1,3 @@
+svg:hover path {
+  fill: #7c3aed; /* warna hover sesuai Tailwind 'violet-700' */
+}
